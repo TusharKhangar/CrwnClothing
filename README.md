@@ -1,8 +1,7 @@
-Progetto shop web site di vestiti.
+Shop web site project for clothes.
 
-In questo esempio ho utilizzato il Context per gestire lo state, troverete un'altra respository con il nome crwn-clothing-Redux.
-Verranno implementate le funzione legate all'acquisto ecc. e anche l'utilizzo di Redux.
-
+In this example I used Context to manage the state, you will find another respository with the name crwn-clothing-Redux.
+The functions related to purchasing etc. will be implemented and also the use of Redux.
 
 
 # React + Vite
