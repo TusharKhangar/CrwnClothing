@@ -7,35 +7,35 @@ import { DirectoryContainer } from './Directory.styles';
 const categories = [
   {
     "id": 1,
-    "title": "Sneakers",
+    "title": "SNEAKERS",
     "imageUrl": "https://i.ibb.co/n194yQN/snealerss.webp",
     "route": 'shop/sneakers',
     "gridArea": "sneakers"
   },
   {
     "id": 2,
-    "title": "Giacche",
+    "title": "JACKETS",
     "imageUrl": "https://i.ibb.co/Gd7cxJq/jackets.webp",
     "route": 'shop/jackets',
     "gridArea": "jackets"
   },
   {
     "id": 3,
-    "title": "Cappelli",
+    "title": "HEAD",
     "imageUrl": "https://i.ibb.co/jgzMMfz/webp.webp",
     "route": "shop/hats",
     "gridArea": "hats"
   },
   {
     "id": 4,
-    "title": "Donna",
+    "title": "WOMAN",
     "imageUrl": "https://i.ibb.co/pL4npcX/woman.webp",
     "route": 'shop/womens',
     "gridArea": "women"
   },
   {
     "id": 5,
-    "title": "Uomo",
+    "title": "MAN",
     "imageUrl": "https://i.ibb.co/Pwn70VP/man.webp",
     "route": 'shop/mens',
     "gridArea": "men"

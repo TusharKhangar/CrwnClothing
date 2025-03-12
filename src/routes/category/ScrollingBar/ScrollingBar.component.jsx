@@ -8,9 +8,9 @@ import {
 
 const ScrollingBar = () => {
   const messages = [
-    "SPEDIZIONE GRATUITA SU TUTTI GLI ORDINI",
-    "RESI GRATUITI ENTRO 30 GIORNI",
-    "CONFEZIONE REGALO GRATUITA"
+    "FREE SHIPPING ON ALL ORDERS",
+"FREE RETURNS WITHIN 30 DAYS",
+    "FREE GIFT WRAPPING"
   ];
 
   const [activeIndex, setActiveIndex] = useState(0);

@@ -45,16 +45,16 @@ const Authentication = () => {
               <OverlayLeft className="overlay-left">
                 <Title>Bentornato!</Title>
                 <Paragraph>
-                  Per restare connesso con noi, effettua il login con i tuoi dati personali
+                To stay connected with us, log in with your personal data
                 </Paragraph>
                 <GhostButton id="signIn" onClick={toggleForm}>
                   Sign In
                 </GhostButton>
               </OverlayLeft>
               <OverlayRight className="overlay-right">
-                <Title>Benvenuto!</Title>
+                <Title>wELCOME!</Title>
                 <Paragraph>
-                  Per restare connesso con noi, effettua la registrazione con i tuoi dati personali
+                To stay connected with us, register with your personal data
                 </Paragraph>
                 <GhostButton id="signUp" onClick={toggleForm}>
                   Sign Up

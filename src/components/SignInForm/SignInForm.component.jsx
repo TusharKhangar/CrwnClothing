@@ -64,8 +64,8 @@ const SignInForm = () => {
   return (
     <SignInFormContainer>
         <form onSubmit={handleSubmit}>
-            <h1>Hai già un account?</h1>
-            <span>Accedi con la tua email e password</span>
+            <h1>Have you got an account?</h1>
+            <span>Log in with your email and password</span>
             <FormInput
                 label='Email'
                 type='email' 

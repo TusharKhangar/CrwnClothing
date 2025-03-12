@@ -46,7 +46,7 @@ function DirectoryItem({ category }) {
       >
         <Title>{title}</Title>
         <ExploreSelectionDiv>
-          <Explore>ESPLORA LA SELEZIONE</Explore>
+          <Explore>EXPLORE THE SELECTION</Explore>
         </ExploreSelectionDiv>
       </CategoryOverlay>
       
