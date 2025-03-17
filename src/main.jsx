@@ -12,7 +12,7 @@ import { stripePromise } from './utils/stripe/stripe.utils.js';
 import './index.scss';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  // <React.StrictMode>
+  <React.StrictMode>
     <Provider store={store}>
       <PersistGate persistor={persistor}>
         <BrowserRouter
@@ -27,5 +27,5 @@ ReactDOM.createRoot(document.getElementById('root')).render(
         </BrowserRouter>
       </PersistGate>
     </Provider>,
-  {/* </React.StrictMode>, */}
+  </React.StrictMode>
 )
